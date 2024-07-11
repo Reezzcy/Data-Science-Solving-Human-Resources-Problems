@@ -1,4 +1,4 @@
-# Final Project: Solving Human Resources Problems
+# First Project: Solving Human Resources Problems
 
 ## Business Understanding
 
