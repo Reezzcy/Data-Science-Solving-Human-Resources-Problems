@@ -36,7 +36,12 @@ pip install pipenv
 pipenv install
 ```
 
-3. Running predict
+3. Install dependencies
+```
+pipenv install -r requirements.txt
+```
+
+4. Running predict
 ```
 Input the data of the examined employee in the data dictionary
 ```
